@@ -1,0 +1,76 @@
+{
+    "hero": {
+        "headline": "Make The Best Financial Decisions",
+        "subheadline": "Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.",
+        "ctaButtons": [
+            {
+                "text": "Get Started",
+                "link": "/started"
+            },
+            {
+                "text": "Watch Video",
+                "link": "https://www.loom.com/share/1735f90b5e464089935cd1dff4fca2b8?sid=ca423c04-d553-4631-97d7-fb84aa1766b6"
+            }
+        ]
+    },
+    "features": [
+        {
+            "title": "Budgeting Intervals",
+            "description": "Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.",
+            "icon":"streamline:star-2"
+        },
+        {
+            "title": "Budgeting Intervals",
+            "description": "Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.",
+            "icon":"ph:cube-transparent"
+        },
+        {
+            "title": "Budgeting Intervals",
+            "description": "Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.",
+            "icon":"ph:cube-light"
+        }
+    ],
+    "advantages": [
+        {
+            "title": "Clever Notifications",
+            "description": "Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris Etiam Odio. Duis Tristique Lacus, Et Blandit Viverra Nisl Velit. Sed Mattis Rhoncus, Diam Suspendisse Sit Nunc, Gravida Eu. Lectus Eget Eget Ac Dolor Neque Lorem Sapien, Suspendisse Aliquam."
+        },
+        {
+            "title": "Fully Customizable",
+            "description": "Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris Etiam Odio. Duis Tristique Lacus, Et Blandit Viverra Nisl Velit. Sed Mattis Rhoncus, Diam Suspendisse Sit Nunc, Gravida Eu. Lectus Eget Eget Ac Dolor Neque Lorem Sapien, Suspendisse Aliquam."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Nick Jonas",
+            "feedbackTitle": "The Best Financial Accounting App Ever!",
+            "feedbackDescription": "“Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris Etiam Odio. Duis Tristique Lacus, Et Blandit Viverra Nisl Velit. Sed Mattis Rhoncus, Diam Suspendisse Sit Nunc, Gravida Eu. Lectus Eget Eget Ac Dolor Neque Lorem Sapien, Suspendisse Aliquam.”"
+        }
+    ],
+    "faq": [
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "“Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris."
+        },
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "“Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris."
+        },
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "“Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris."
+        },
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "“Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris."
+        },
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "“Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris."
+        },
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "“Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris."
+        }
+    ]
+}
