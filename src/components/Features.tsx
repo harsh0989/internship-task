@@ -79,7 +79,7 @@ export default function Features() {
             <Box sx={{marginTop:'2rem'}}>
                 {
                     data?.features.map((f, i) => {
-                        return <Box sx={{marginBottom:'2rem'}}>
+                        return <Box key={i} sx={{marginBottom:'2rem'}}>
                         <Box sx={{display:'flex', alignItems:'center'}}>
                             <Icon icon={f?.icon} style={{color:'#FF5555', fontSize:'1rem'}}/>
                             <Typography sx={{marginLeft:'1rem', fontFamily:'Clash Display', fontWeight:'600'}} >{f?.title}</Typography>
